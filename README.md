@@ -1,4 +1,4 @@
-# Taiyo Yuden
+# TAIYO YUDEN
 Welcome to Taiyo Yuden's GitHub page.
 
 For a complete list of sample code and tutorials, visit Taiyo Yuden's [GitHub Repository](https://github.com/TaiyoYudenUSA)
